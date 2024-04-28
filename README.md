@@ -79,7 +79,7 @@ app/manifests/AndroidManifest.xmlにて
 https://appdev-room.com/android-app-develop
 
 ## 補助サイト
-（manifestのactivity,NoActionBar及びエミュレート関連）
+（manifestのactivity,NoActionBar及びエミュレートとGradle関連）
 
 https://qiita.com/crthgt6t/items/f0112c9c3615214927b1
 
@@ -88,3 +88,5 @@ https://stackoverflow.com/questions/68610721/android-studio-the-activity-must-be
 https://zenn.dev/imokeeeenpi/articles/38d8b72e4dd442
 
 https://pg.akihiro-takeda.com/android-avd-chgini/
+
+https://donachikiblog.com/android-gradle-sync-failed/
